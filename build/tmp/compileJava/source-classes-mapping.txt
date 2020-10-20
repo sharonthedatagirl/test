@@ -1,0 +1,14 @@
+ippo/assignment1/proxy/CacheProxy2.java
+ ippo.assignment1.proxy.CacheProxy2
+ippo/assignment1/controller/HashMapController.java
+ ippo.assignment1.controller.HashMapController
+ippo/assignment1/proxy/CacheProxy.java
+ ippo.assignment1.proxy.CacheProxy
+ippo/assignment1/controller/SimpleController.java
+ ippo.assignment1.controller.SimpleController
+ippo/assignment1/controller/PropertyController.java
+ ippo.assignment1.controller.PropertyController
+ippo/assignment1/controller/BigController.java
+ ippo.assignment1.controller.BigController
+ippo/assignment1/Main.java
+ ippo.assignment1.Main
